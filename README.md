@@ -1,2 +1,1 @@
-# Cw2
-Cwiczenie nr 2 APBD
+Grzegorz Frączek 2021Z_wii_APBD_1w s17476
